@@ -24,4 +24,4 @@ yarn start
 
 4. kết quả:
 
-![image](https://github.com/duynguyen93/web3-Mantle-journey/assets/24671262/b3d18953-fae5-4be8-92d8-677b0a65b220)
+![image](https://github.com/solotop999/web3-Mantle-journey/assets/24671262/eb26631f-eb90-4033-82cb-e0066aede31c)

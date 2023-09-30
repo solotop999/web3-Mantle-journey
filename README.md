@@ -13,7 +13,7 @@ npm install --global yarn
 ```
 
 
-2. Tải source về và nhập private key vào file my_wallets.txt
+2. Tải source về và tạo new file với tên: my_wallets.txt => nhập private key vào file này, mỗi key 1 hàng
 
 3. Khởi chạy:
 ```

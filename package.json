@@ -1,0 +1,9 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "iziswap-sdk": "^1.4.1"
+  },
+  "scripts": {
+    "start": "ts-node-cwd.cmd .\\start.ts"
+  }
+}
